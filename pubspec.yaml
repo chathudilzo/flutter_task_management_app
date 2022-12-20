@@ -46,6 +46,9 @@ dependencies:
   google_fonts:
   #scrollable date calender
   date_picker_timeline:
+  #storing data locally in db
+  sqflite:
+  flutter_staggered_animations:
 
 
 dev_dependencies:
